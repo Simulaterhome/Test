@@ -1,0 +1,32 @@
+* {
+    margin: 0 0;
+}
+
+.container {
+    background-color: #FFFFFF;
+}
+
+.input {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-color: cornflowerblue;
+    width: 20vw;
+    padding: 2vw;
+    border-radius: 15px;
+}
+
+.input > div {
+    margin: 1vw;
+}
+
+input {
+    width: 70%;
+    height: 2vw;
+}
+
+.text {
+    font-size: 2vw;
+}
